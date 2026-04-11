@@ -2,9 +2,10 @@
 *.exe
 *.out
 *.o
+ignorado.txt
 
 # Archivos temporales
 *.log
 
-# Configuración de VS Code (opcional)
+# Configuración de VS Code
 .vscode/
