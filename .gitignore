@@ -1,0 +1,10 @@
+# Archivos compilados
+*.exe
+*.out
+*.o
+
+# Archivos temporales
+*.log
+
+# Configuración de VS Code (opcional)
+.vscode/
